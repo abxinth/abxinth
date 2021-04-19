@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abxinth
-- 👀 I’m interested in ...Ai,Distributed Systems,Blockchain,Game Development
+- 👀 I’m interested in ...Ai,Distributed Systems,Blockchain
 - 🌱 I’m currently learning ...lots of stuff
 - 📫 How to reach me ...abxinth@gmail.com,Instagram-mrino_mo
 
